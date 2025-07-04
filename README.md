@@ -13,7 +13,7 @@ This project analyzes fantasy hockey performance to determine which teams are ge
 - **Comprehensive Visualizations**: Quadrant analysis, trend charts, and component breakdowns
 - **Actionable Insights**: Clear categorization of teams as skilled, lucky, unlucky, or underperforming
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Used
 
 - **Python**: Data processing and statistical analysis
 - **SQLite**: Database management and querying
