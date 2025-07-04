@@ -1,6 +1,6 @@
 # Fantasy Hockey Luck Analysis 🏒📊
 
-A comprehensive statistical analysis to quantify "luck" in fantasy hockey by separating skill from randomness using advanced analytics.
+A comprehensive statistical analysis pit my friends against each other as we analyze which teams were lucked their way to the top.
 
 ## 🎯 Project Overview
 
