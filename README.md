@@ -9,9 +9,8 @@ This project analyzes fantasy hockey performance to determine which teams are ge
 ## 📈 Key Features
 
 - **Multi-dimensional Luck Quantification**: Combines performance metrics, opponent strength, and win probability
-- **Advanced Statistical Modeling**: Z-score normalization, weighted performance scoring, and logistic regression
+- **Statistical Modeling**: Z-score normalization, weighted performance scoring, and logistic regression
 - **Comprehensive Visualizations**: Quadrant analysis, trend charts, and component breakdowns
-- **Actionable Insights**: Clear categorization of teams as skilled, lucky, unlucky, or underperforming
 
 ## 🛠️ Tech Used
 
