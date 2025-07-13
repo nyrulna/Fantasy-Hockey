@@ -1,6 +1,6 @@
 # Fantasy Hockey Luck Analysis 🏒📊
 
-A comprehensive statistical analysis pit my friends against each other as we analyze which teams were lucked their way to the top.
+A comprehensive statistical analysis where I pit my friends against each other as we analyze which teams lucked their way to the top, and which ones deserved their placements.
 
 ## 🎯 Project Overview
 
