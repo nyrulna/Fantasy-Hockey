@@ -6,6 +6,8 @@ A comprehensive statistical analysis where I pit my friends against each other a
 
 This project analyzes fantasy hockey performance to determine which teams are genuinely skilled versus the lucky ones amongst us. Using statistical modeling, strength-of-schedule adjustments, and win probability calculations, this analysis can cause feuds that could last multiple seasons.
 
+Helps provide insight on factors beyond skill and strategic decision making, displaying those that may be over/under-performing.
+
 ## 📈 Key Features
 
 - **Multi-dimensional Luck Quantification**: Combines performance metrics, opponent strength, and win probability
@@ -22,7 +24,8 @@ This project analyzes fantasy hockey performance to determine which teams are ge
 
 ## 📊 Sample Results
 
-(![performancevsLuck](https://github.com/user-attachments/assets/df46ab26-8207-48cf-8fb6-b1ec42839ade)
+![performancevsLuck](https://github.com/user-attachments/assets/df46ab26-8207-48cf-8fb6-b1ec42839ade)
+Plotting average performance against composite luck score. 
 ![Luck Components By Team](https://github.com/user-attachments/assets/1e4a9bd5-b4dd-4ecf-b081-2299365884cf)
 ![ExpectedVsActual](https://github.com/user-attachments/assets/1b9d0fb7-0886-466f-b63a-eba633d9c82d)
 ![compositeLuckScore](https://github.com/user-attachments/assets/6ac362c5-33e6-4fbc-ae4c-63178ca5f418)
