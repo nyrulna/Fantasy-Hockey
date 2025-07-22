@@ -22,10 +22,15 @@ Helps provide insight on factors beyond skill and strategic decision making, dis
 - **Matplotlib/Seaborn**: Data visualization
 - **SciPy**: Advanced statistical functions
 
-## 📊 Sample Results
+## 📊 Results
 
 ![performancevsLuck](https://github.com/user-attachments/assets/df46ab26-8207-48cf-8fb6-b1ec42839ade)
 Plotting average performance against composite luck score. 
+- Upper Right(Skilled and Lucky): Strong teams that are likely contenders
+- Upper Left(Lucky and Underperforming): Unsustainable pace that is likely to regress
+- Bottom Right(Skilled and Unlucky): Strong teams that are due for some positive regression
+- Lower Left(Poor and Unlucky): Struggling teams that just can't find their footing
 ![Luck Components By Team](https://github.com/user-attachments/assets/1e4a9bd5-b4dd-4ecf-b081-2299365884cf)
+
 ![ExpectedVsActual](https://github.com/user-attachments/assets/1b9d0fb7-0886-466f-b63a-eba633d9c82d)
 ![compositeLuckScore](https://github.com/user-attachments/assets/6ac362c5-33e6-4fbc-ae4c-63178ca5f418)
