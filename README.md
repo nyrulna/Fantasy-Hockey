@@ -22,7 +22,7 @@ This project analyzes fantasy hockey performance to determine which teams are ge
 
 ## 📊 Sample Results
 
-![Performance vs Luck Quadrant Analysis](![performancevsLuck](https://github.com/user-attachments/assets/df46ab26-8207-48cf-8fb6-b1ec42839ade)
+(![performancevsLuck](https://github.com/user-attachments/assets/df46ab26-8207-48cf-8fb6-b1ec42839ade)
 ![Luck Components By Team](https://github.com/user-attachments/assets/1e4a9bd5-b4dd-4ecf-b081-2299365884cf)
 ![ExpectedVsActual](https://github.com/user-attachments/assets/1b9d0fb7-0886-466f-b63a-eba633d9c82d)
 ![compositeLuckScore](https://github.com/user-attachments/assets/6ac362c5-33e6-4fbc-ae4c-63178ca5f418)
