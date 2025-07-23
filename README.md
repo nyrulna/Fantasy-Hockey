@@ -2,6 +2,8 @@
 
 A comprehensive statistical analysis where I pit my friends against each other as we analyze which teams lucked their way to the top, and which ones deserved their placements.
 
+Credit to [j-krl[(https://github.com/j-krl/yfpy-nhl-sqlite?tab=readme-ov-file) for providing the schema to help extract the data from the league.
+
 ## 🎯 Project Overview
 
 This project analyzes fantasy hockey performance to determine which teams are genuinely skilled versus the lucky ones amongst us. Using statistical modeling, strength-of-schedule adjustments, and win probability calculations, this analysis can cause feuds that could last multiple seasons.
