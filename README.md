@@ -2,7 +2,7 @@
 
 A comprehensive statistical analysis where I pit my friends against each other as we analyze which teams lucked their way to the top, and which ones deserved their placements.
 
-Credit to [j-krl[(https://github.com/j-krl/yfpy-nhl-sqlite?tab=readme-ov-file) for providing the schema to help extract the data from the league.
+Credit to [j-krl](https://github.com/j-krl/yfpy-nhl-sqlite?tab=readme-ov-file) for providing the schema to help extract the data from the league.
 
 ## 🎯 Project Overview
 
