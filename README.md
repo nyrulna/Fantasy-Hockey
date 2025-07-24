@@ -1,4 +1,4 @@
-# Fantasy Hockey Luck Analysis 🏒📊
+# Fantasy Hockey Luck Analysis 
 
 A comprehensive statistical analysis where I pit my friends against each other as we analyze which teams lucked their way to the top, and which ones deserved their placements.
 
@@ -16,7 +16,7 @@ Helps provide insight on factors beyond skill and strategic decision making, dis
 - **Statistical Modeling**: Z-score normalization, weighted performance scoring, and logistic regression
 - **Comprehensive Visualizations**: Quadrant analysis, trend charts, and component breakdowns
 
-## 🛠 Tech Used
+##  Tech Used
 
 - **Python**: Data processing and statistical analysis
 - **SQLite**: Database management and querying
