@@ -4,19 +4,19 @@ A comprehensive statistical analysis where I pit my friends against each other a
 
 Credit to [j-krl](https://github.com/j-krl/yfpy-nhl-sqlite?tab=readme-ov-file) for providing the schema to help extract the data from the league.
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project analyzes fantasy hockey performance to determine which teams are genuinely skilled versus the lucky ones amongst us. Using statistical modeling, strength-of-schedule adjustments, and win probability calculations, this analysis can cause feuds that could last multiple seasons.
 
 Helps provide insight on factors beyond skill and strategic decision making, displaying those that may be over/under-performing.
 
-## 📈 Key Features
+##  Key Features
 
 - **Multi-dimensional Luck Quantification**: Combines performance metrics, opponent strength, and win probability
 - **Statistical Modeling**: Z-score normalization, weighted performance scoring, and logistic regression
 - **Comprehensive Visualizations**: Quadrant analysis, trend charts, and component breakdowns
 
-## 🛠️ Tech Used
+## 🛠 Tech Used
 
 - **Python**: Data processing and statistical analysis
 - **SQLite**: Database management and querying
@@ -24,7 +24,7 @@ Helps provide insight on factors beyond skill and strategic decision making, dis
 - **Matplotlib/Seaborn**: Data visualization
 - **SciPy**: Advanced statistical functions
 
-## 📊 Results
+##  Results
 
 ![performancevsLuck](https://github.com/user-attachments/assets/df46ab26-8207-48cf-8fb6-b1ec42839ade)
 Plotting average performance against composite luck score. 
@@ -39,7 +39,7 @@ Compares predicted wins against actual wins, showing which teams outperformed/un
 ![compositeLuckScore](https://github.com/user-attachments/assets/6ac362c5-33e6-4fbc-ae4c-63178ca5f418)
 Ranked bar chart displaying each team's overall luck score as one metric. Weighted composite luck score (30% performance luck + 40% strength-adjusted luck + 30% win probablity)
 
-## 🔍 Key Insights & Project Findings
+##  Key Insights & Project Findings
 
 ### What the Data Revealed
 After analyzing the entire season, several patterns emerged that go beyond just "who got lucky":
