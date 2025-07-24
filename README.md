@@ -46,8 +46,8 @@ After analyzing the entire season, several patterns emerged that go beyond just 
 
 ---
 
-### **The Playoff Reality Check**
-- **"Chill guy" (1st place):** Genuine skill with moderate positive luck – a well-deserved champion.
+### **The Playoffs**
+- **"Chill guy" (1st place):** Genuine skill with moderate positive luck.
 - **Teams 2–4:** Mixed skill vs. luck factors, showing the playoff race was more competitive than standings suggested.
 - **Bottom teams:** Some faced both performance issues **and** bad luck (a double whammy).
 
