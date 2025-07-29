@@ -297,12 +297,21 @@ scatter = plt.scatter(team_luck_summary['expected_win_prob_sum'],
                      c=colors, s=150, alpha= 0.7, edgecolors='black', linewidth=1)
 plt.plot([0, team_luck_summary['expected_win_prob_sum'].max()], 
          [0, team_luck_summary['expected_win_prob_sum'].max()], 'r--', alpha=0.5, linewidth=2)
+
+# steps
+max_wins = max(team_luck_summary['expected_win_prob_sum'].max(), team_luck_summary['is_winner_sum'].max())
+tick_step = 1.0 
+ticks = np.arange(0, max_wins + tick_step, tick_step)
+
+plt.xticks(ticks)
+plt.yticks(ticks)
+
 plt.xlabel('Expected Wins', fontsize=12)
 plt.ylabel('Actual Wins', fontsize=12)
 plt.title('Expected vs Actual Wins', fontsize=16, fontweight='bold')
 plt.grid(True, alpha=0.3)
 
-# Add team labels with better positioning
+# Add team labels to lessen the wonk
 for i, row in team_luck_summary.iterrows():
     plt.annotate(row['name'], 
                 (row['expected_win_prob_sum'], row['is_winner_sum']),
