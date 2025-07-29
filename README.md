@@ -34,7 +34,7 @@ Plotting average performance against composite luck score.
 - Lower Left(Poor and Unlucky): Struggling teams that just can't find their footing
 ![Luck Components By Team](https://github.com/user-attachments/assets/1e4a9bd5-b4dd-4ecf-b081-2299365884cf)
 Grouped bar chart that splits into 3 luck components: Performance luck, strength-of-schedule, and win probability. This helps provide an understanding of where the team's luck is coming from.
-![ExpectedVsActual](https://github.com/user-attachments/assets/1b9d0fb7-0886-466f-b63a-eba633d9c82d)
+![ExpectedVsActual](<img width="1000" height="800" alt="expected vs actual wins" src="https://github.com/user-attachments/assets/b18e4e2c-9c42-4406-b3b7-55d5727675da" />)
 Compares predicted wins against actual wins, showing which teams outperformed/underperformed expectations.
 ![compositeLuckScore](https://github.com/user-attachments/assets/6ac362c5-33e6-4fbc-ae4c-63178ca5f418)
 Ranked bar chart displaying each team's overall luck score as one metric. Weighted composite luck score (30% performance luck + 40% strength-adjusted luck + 30% win probablity)
