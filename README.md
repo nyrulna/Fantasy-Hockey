@@ -47,6 +47,21 @@ After analyzing the entire season, several patterns emerged that go beyond just 
 ---
 
 ### **The Playoffs**
+
+This is how the standings looked by the end of the playoffs:
+
+| Rank | Team Name           | Record  | Points | Lucky Rank |
+|------|---------------------|---------|--------|------------|
+| 1    | Chill Guy           | 10-2-0  | 120.5  | 3          |
+| 2    | Luke's Legit Team   | 9-3-0   | 115.2  | 1          |
+| 3    | Cardio Merchants    | 8-4-0   | 110.0  | 2          |
+| 4    | Sir Gordon Eggs     | 7-5-0   | 105.3  | 4          |
+| 5    | Bazinga Rises       | 6-6-0   | 98.0   | 6          |
+| 6    | Aleggsander Ovechicken         | 6-6-0   | 96.5   | 5          |
+| 7    | BRATT   | 5-7-0   | 93.7   | 7          |
+| 8    | Disney's Hannah Montana        | 4-8-0   | 89.2   | 9          |
+| 9    | Mostly VAN   | 3-9-0   | 86.0   | 8          |
+| 10   | Going in Drai          | 2-10-0  | 80.1   | 10         |
 - **"Chill guy" (1st place):** Genuine skill with moderate positive luck.
 - **Teams 2–4:** Mixed skill vs. luck factors, showing the playoff race was more competitive than standings suggested.
 - **Bottom teams:** Some faced both performance issues **and** bad luck (a double whammy).
