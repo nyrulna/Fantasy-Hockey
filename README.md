@@ -51,8 +51,8 @@ After analyzing the entire season, several patterns emerged that go beyond just 
 This is how the standings looked by the end of the playoffs:
 
 | Rank | Team Name           | Record   | Lucky Rank |
-|------|---------------------|---------|--------|------------|
-| 1    | Chill Guy           | 18-3-0   | 3          |
+|------|---------------------|------------------|
+| 1    | Chill Guy           | 18-3-0  | 3          |
 | 2    | Luke's Legit Team   | 15-6-0     | 1          |
 | 3    | Cardio Merchants    | 12-10-0    | 2          |
 | 4    | Sir Gordon Eggs     | 11-9-2    | 4          |
