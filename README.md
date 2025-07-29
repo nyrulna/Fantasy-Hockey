@@ -50,18 +50,18 @@ After analyzing the entire season, several patterns emerged that go beyond just 
 
 This is how the standings looked by the end of the playoffs:
 
-| Rank | Team Name           | Record   | Lucky Rank |
-|------|---------------------|------------------|
-| 1    | Chill Guy           | 18-3-0  | 3          |
-| 2    | Luke's Legit Team   | 15-6-0     | 1          |
-| 3    | Cardio Merchants    | 12-10-0    | 2          |
-| 4    | Sir Gordon Eggs     | 11-9-2    | 4          |
-| 5    | Bazinga Rises       | 9-10-2      | 6          |
-| 6    | Aleggsander Ovechicken    | 10-10-1           | 5          |
-| 7    | BRATT                | 10-10-1      | 7          |
-| 8    | Disney's Hannah Montana       | 3-17-1       | 9          |
-| 9    | Mostly VAN             | 5-16-0      | 8          |
-| 10   | Going in Drai          | 8-10-3     | 10         |
+| Rank | Team Name                  | Record   | Lucky Rank |
+|------|----------------------------|----------|------------|
+| 1    | Chill Guy                  | 18-3-0   | 9          |
+| 2    | Luke's Legit Team          | 15-6-0   | 3          |
+| 3    | Cardio Merchants           | 12-10-0  | 2          |
+| 4    | Sir Gordon Eggs            | 11-9-2   | 7          |
+| 5    | Bazinga Rises              | 9-10-2   | 1          |
+| 6    | Aleggsander Ovechicken     | 10-10-1  | 8          |
+| 7    | BRATT                      | 10-10-1  | 5          |
+| 8    | Disney's Hannah Montana    | 3-17-1   | 6          |
+| 9    | Mostly VAN                 | 5-16-0   | 10         |
+| 10   | Going in Drai              | 8-10-3   | 4          |
 
 - **"Chill guy" (1st place):** Genuine skill with moderate positive luck.
 - **Teams 2–4:** Mixed skill vs. luck factors, showing the playoff race was more competitive than standings suggested.
