@@ -13,20 +13,15 @@ stats_info = pd.read_sql_query("SELECT rowid, abbr, name FROM stat", conn)
 
 # draft pick stats
 team_stats_query = """
-SELECT 
-    mt.matchup_id,
-    mt.team_id,
-    ps.stat_id,
-    ps.date_,
-    w.idx as week_id,
+SELECT mt.matchup_id, mt.team_id, ps.stat_id, ps.date_, w.idx as week_id,
     SUM(ps.value) AS total_stat_value,
     COUNT(ps.player_id) AS active_players
-FROM player_stat ps 
-JOIN player p ON ps.player_id = p.rowid
-JOIN week w ON ps.date_ BETWEEN w.start_ AND w.end_
-JOIN matchup m ON m.week_id = w.idx
-JOIN matchup_team mt ON mt.matchup_id = m.rowid
-JOIN draft_pick dp ON dp.player_id = p.rowid AND dp.team_id = mt.team_id
+FROM player_stat  AS ps 
+JOIN player AS p ON ps.player_id = p.rowid
+JOIN week AS w ON ps.date_ BETWEEN w.start_ AND w.end_
+JOIN matchup AS m ON m.week_id = w.idx
+JOIN matchup_team AS mt ON mt.matchup_id = m.rowid
+JOIN draft_pick AS dp ON dp.player_id = p.rowid AND dp.team_id = mt.team_id
 GROUP BY mt.matchup_id, mt.team_id, ps.stat_id, ps.date_, w.idx
 ORDER BY mt.matchup_id, mt.team_id, ps.stat_id
 """
@@ -44,15 +39,9 @@ teams = pd.read_sql_query("SELECT rowid, yahoo_key, name FROM team", conn)
 teams['name'] = teams['name'].astype(str).str.replace("b'", "").str.replace("'", "")
 
 matchup_results = pd.read_sql_query("""
-    SELECT 
-        mt.matchup_id, 
-        mt.team_id, 
-        mt.yahoo_points, 
-        mt.is_winner, 
-        mt.is_tied,
-        m.week_id
-    FROM matchup_team mt 
-    JOIN matchup m ON m.rowid = mt.matchup_id
+    SELECT mt.matchup_id, mt.team_id, mt.yahoo_points, mt.is_winner, mt.is_tied, m.week_id
+    FROM matchup_team AS mt 
+    JOIN matchup AS m ON m.rowid = mt.matchup_id
 """, conn)
 
 print(f"Loaded {len(matchup_results)} matchup results")
