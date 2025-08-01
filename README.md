@@ -63,7 +63,7 @@ This is how the standings looked by the end of the playoffs:
 | 9    | Mostly VAN                 | 5-16-0   | 10         |
 | 10   | Going in Drai              | 8-10-3   | 4          |
 
-- **"Chill guy" (1st place):** Genuine skill with moderate positive luck.
+- **"Chill guy" (1st place):** Despite having one of the lowest luck scores, he still managed to dominate through the entire league. 
 - **Teams 2–4:** Mixed skill vs. luck factors, showing the playoff race was more competitive than standings suggested.
 - **Bottom teams:** Some faced both performance issues **and** bad luck (a double whammy).
 
