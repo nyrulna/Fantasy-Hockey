@@ -59,7 +59,7 @@ This is how the standings looked by the end of the playoffs:
 | 5    | Bazinga Rises              | 9-10-2   | 1          |
 | 6    | Aleggsander Ovechicken     | 10-10-1  | 8          |
 | 7    | BRATT                      | 10-10-1  | 5          |
-| 8    | Disney's Hannah Montana    | 3-17-1   | 6          |
+| 8    | Disney's Hannah Montana    | 3-16-1   | 6          |
 | 9    | Mostly VAN                 | 5-16-0   | 10         |
 | 10   | Going in Drai              | 8-10-3   | 4          |
 
